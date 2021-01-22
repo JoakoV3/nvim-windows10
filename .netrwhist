@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/joakov3/Documents/Code/memotest'
+let g:netrw_dirhist_5='/home/joakov3/Documents/Code/memotest/pages'
+let g:netrw_dirhist_4='/home/joakov3/Documents/Code/memotest'
+let g:netrw_dirhist_3='/home/joakov3/.config/nvim'
+let g:netrw_dirhist_2='/home/joakov3/.config/nvim/plugins'
+let g:netrw_dirhist_1='/home/joakov3/.config/nvim'
