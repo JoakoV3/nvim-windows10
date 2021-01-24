@@ -14,6 +14,13 @@ Plug 'easymotion/vim-easymotion'
 "Navigate with C-h C-l C-j C-k
 "Navegar con C-h C-l C-j C-k
 Plug 'christoomey/vim-tmux-navigator'
+"NERDTREE
+Plug 'preservim/nerdtree'
+Plug 'ryanoasis/vim-devicons'
+
+"ChadTree (Nerdtree Alternative )
+Plug 'ms-jpq/chadtree', {'branch': 'chad', 'do': 'python3 -m chadtree deps'}
+
 "Airline
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'

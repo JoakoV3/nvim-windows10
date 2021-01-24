@@ -1,5 +1,5 @@
 "██╗███╗░░██╗██╗████████╗░░░██╗░░░██╗██╗███╗░░░███╗
-"█║████╗░██║██║╚══██╔══╝░░░██║░░░██║██║████╗░████║
+"██║████╗░██║██║╚══██╔══╝░░░██║░░░██║██║████╗░████║
 "██║██╔██╗██║██║░░░██║░░░░░░╚██╗░██╔╝██║██╔████╔██║
 "██║██║╚████║██║░░░██║░░░░░░░╚████╔╝░██║██║╚██╔╝██║
 "██║██║░╚███║██║░░░██║░░░██╗░░╚██╔╝░░██║██║░╚═╝░██║ 
@@ -33,12 +33,11 @@ xnoremap J :move '>+1<CR>gv-gv
 vnoremap < <gv
 vnoremap > >gv
 
-"-------------------------------Plugins-------------------------------
+"-------------------------------Sources-------------------------------
 source $HOME/.config/nvim/plugins/plugins.vim
 source $HOME/.config/nvim/plugins/plug-config.vim
 source $HOME/.config/nvim/themes/onedark.vim
 luafile $HOME/.config/nvim/lua/plug-colorizer.lua
-
 "--------------------------------Plugins Config--------------------------------------------
 "save file
 "guardar archivo
@@ -62,10 +61,9 @@ let g:indentLine_fileTypeExclude=["nerdtree"]
 
 "abrir Nerdtree
 "open nerdtree
-"nmap <Leader>nt :NERDTreeFind<CR>
+nmap <Leader>e <cmd>CHADopen<CR>
 
 "open cocExplorer 
-nmap <space>nt :CocCommand explorer<CR>
 "Buscar dos carácteres con easymotion
 "Search for two chars with easymotion
 nmap <Leader>s <Plug>(easymotion-s2)

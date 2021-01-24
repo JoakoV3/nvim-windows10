@@ -1,5 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =6
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/joakov3/Documents/Code/memotest'
+let g:netrw_dirhist_7='/home/joakov3/Documents/Code/memotest/pages'
 let g:netrw_dirhist_6='/home/joakov3/Documents/Code/memotest'
 let g:netrw_dirhist_5='/home/joakov3/Documents/Code/memotest/pages'
 let g:netrw_dirhist_4='/home/joakov3/Documents/Code/memotest'
