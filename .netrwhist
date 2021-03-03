@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='C:/Users'
+let g:netrw_dirhist_5='C:\Users\Joaquín Varela'
+let g:netrw_dirhist_4='C:/Users/Joaquín Varela/AppData/Local/nvim'
+let g:netrw_dirhist_3='C:/Users/Joaquín Varela/AppData/Local'
+let g:netrw_dirhist_2='C:/Users/Joaquín Varela/AppData'
+let g:netrw_dirhist_1='C:\Users\Joaquín Varela'
