@@ -5,8 +5,12 @@ Toda la explicación se encuentra en mi canal de youtube. [Joaquin Varela ](http
 Tengo varios videos con explicaciones de instalacion y configuracion.
 
 Requisitos para instalar esto
+
 1 Vim-Plug
+
 2 Git
+
 3 RipGrep
+
 4 nvim :)
 
